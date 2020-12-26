@@ -1,8 +1,8 @@
 # 关于容器的使用
 ## 了解整个项目流程架构
-![](https://tva1.sinaimg.cn/large/0081Kckwgy1gm0yngkx57j30u00vu4qp.jpg)
+![Image text](https://tva1.sinaimg.cn/large/0081Kckwgy1gm0yngkx57j30u00vu4qp.jpg)
 ## 数据存储的结构，也相当于实体类，所需的成员变量
-![](https://tva1.sinaimg.cn/large/0081Kckwgy1gm0ypri9kuj31e00fwgnu.jpg)
+![Image text](https://tva1.sinaimg.cn/large/0081Kckwgy1gm0ypri9kuj31e00fwgnu.jpg)
 ## 技术要求
 - JDK 版本为 1.8 或以上 
 - 键盘输入 Scanner 类 
